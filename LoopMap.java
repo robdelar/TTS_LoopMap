@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.util.HashMap;
 import java.util.ArrayList;
 
-public class Class1 {
+public class LoopMap {
 	
 	public static void main(String[] args) {
 		int sum, product, largest, smallest;
